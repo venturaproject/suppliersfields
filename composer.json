@@ -1,0 +1,15 @@
+{
+    "name": "suppliersfields/suppliersfields",
+    "autoload": {
+        "psr-4": {
+            "PrestaShop\\Module\\Suppliersfields\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Suppliersfields",
+            "email": "31247228+douglace@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
