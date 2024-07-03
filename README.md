@@ -10,6 +10,7 @@ added logic is applied in the hooks
 
 - `actionSupplierFormBuilderModifier`, 
 - `actionAfterUpdateSupplierFormHandler`
+- `actionAfterCreateSupplierFormHandle`
 
 the module includes an override of the `Supplier` class in which two new properties are added:
 
